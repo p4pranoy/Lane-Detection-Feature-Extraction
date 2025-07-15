@@ -1,4 +1,4 @@
-# This repository contains a Jupyter Notebook (Chapter_06.ipynb) that demonstrates road lane line detection using OpenCV and Numpy.
+# This repository contains a Jupyter Notebook (TensorFlow Vision Projects.ipynb) that demonstrates road lane line detection using OpenCV and Numpy.
 
 Project Overview
 -------------------------------
@@ -38,7 +38,7 @@ How to Run
 
    Bash
    
-   jupyter notebook "Chapter_06.ipynb"
+   jupyter notebook "TensorFlow Vision Projects.ipynb"
 
 3. Execute the cells sequentially to observe the lane line detection process.
 
